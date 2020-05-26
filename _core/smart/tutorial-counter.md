@@ -44,7 +44,7 @@ Finally, the project dependencies are installed and your project is ready for de
 
 ## Step 2: Running tests
 
-mart contracts are often developed in a test-driven approach. This not only improves code quality, but also removes the need to push every iteration to the blockchain before executing it. We will do the same in this project. Now, let's run the tests and review the results:
+Smart contracts are often developed in a test-driven approach. This not only improves code quality, but also removes the need to push every iteration to the blockchain before executing it. We will do the same in this project. Now, let's run the tests and review the results:
 
 Still in the project root directory, run the following command:
 
